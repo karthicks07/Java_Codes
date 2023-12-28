@@ -1,0 +1,11 @@
+import java.util.*;
+public class Main
+{
+	public static void main(String[] args) {
+		System.out.println("Byte Datatype Addition");
+		byte n1 = 10;
+		byte n2 = 20;
+		byte sum = (byte)(n1+n2);
+		System.out.printf("Sum : %d",sum);
+	}
+}
