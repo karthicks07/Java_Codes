@@ -12,7 +12,7 @@ public class Main
 		    float farh = s.nextFloat();
 		    int cel = (((int)farh - 32)*5)/9;
 		    System.out.printf("Celsius - %d",cel);
-		}
+		} 
 		else if(ch == 1)
 		{
 		    System.out.print("Enter Celsius value - ");
