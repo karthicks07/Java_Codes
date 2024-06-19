@@ -5,7 +5,7 @@ public class Main
 		Scanner s = new Scanner(System.in);
 		System.out.print("Enter the float value - ");
 		float f = s.nextFloat();
-		System.out.print("Enter the integer value - ");
+		System.out.print("Enter the integer value - "); 
 		int n = s.nextInt();
 		int n1 = (int)f;//Typecasting
 		float f1 = n; 
